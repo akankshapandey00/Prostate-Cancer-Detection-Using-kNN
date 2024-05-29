@@ -1,5 +1,5 @@
 ---
-title: "kNN"
+title: "Detecting Prostate Cancer"
 author: "Akanksha Pandey"
 date: "2023-09-30"
 output: html_document
