@@ -1,4 +1,5 @@
-# Prediction-of-Categorical-Variable-using-kNN
+# Prostate Cancer Detection Using kNN
+
 
 **Author:** Akanksha Pandey  
 **Date:** 2023-09-30
